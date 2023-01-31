@@ -11,10 +11,10 @@
 * useSelector > used for data access.
     
 ## Step
-1 Install reduxjs and toolkit package
+* Install reduxjs and toolkit package
     npm i @reduxjs/toolkit
-2 Create global store=>store.js
-3 Providing store to complete react app
-4 Create a slice
-5 Add slice reducer to the store 
-6 Implementing useSelector and useDispatch in react component
+* Create global store=>store.js
+* Providing store to complete react app
+* Create a slice
+* Add slice reducer to the store 
+* Implementing useSelector and useDispatch in react component
